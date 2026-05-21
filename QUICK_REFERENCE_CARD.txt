@@ -1,0 +1,233 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║               🤖 WHATSAPP AI BOT - QUICK SETUP REFERENCE CARD                ║
+║                          Soheily Creations | May 2026                        ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ 📋 SETUP CHECKLIST - Complete in this order                                  │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+□ Step 1: Create GitHub Account (github.com)
+□ Step 2: Create Render Account (render.com) 
+□ Step 3: Create Supabase Account (supabase.com)
+□ Step 4: Get Gemini API Key (ai.google.dev)
+
+□ Step 5: Fork GitHub Repository
+□ Step 6: Deploy Backend on Render
+□ Step 7: Deploy Frontend on Render
+□ Step 8: Setup Supabase Database (run SQL)
+□ Step 9: Connect WhatsApp (scan QR)
+□ Step 10: Add FAQs & Documents
+
+✅ SYSTEM LIVE & WORKING!
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ 🔑 IMPORTANT CREDENTIALS - SAVE THESE SAFELY                                 │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+GitHub URL:
+https://github.com/[username]/whatsapp-platform
+
+Backend URL:
+https://whatsapp-bot-backend-[XXXX].onrender.com
+
+Frontend URL (THIS IS YOUR DASHBOARD):
+https://whatsapp-bot-frontend-[XXXX].onrender.com
+
+Supabase Project ID:
+[your-project]
+
+Gemini API Key:
+AIzaSy[XXXXXXXXXXXXX]
+
+⚠️ KEEP THESE SAFE - Don't share publicly!
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ 📞 QUICK TROUBLESHOOTING                                                     │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+❌ Bot not replying
+  ✓ Check: Auto-Reply is ON (Settings page)
+  ✓ Check: Knowledge Base has FAQs or documents
+  ✓ Check: WhatsApp shows "connected" ✓
+  ✓ Wait 15 seconds (Render server is slow at first)
+
+❌ QR code won't scan
+  ✓ Use phone camera to scan
+  ✓ Make sure good lighting
+  ✓ QR expires in 30 seconds - rescan quickly
+
+❌ "Not Found" error on website
+  ✓ Wait 5 minutes after deploy
+  ✓ Refresh browser (Ctrl+F5)
+  ✓ Check URLs are exactly correct
+
+❌ Can't login to dashboard
+  ✓ Clear browser cache (Ctrl+Shift+Delete)
+  ✓ Try different browser
+  ✓ Check internet connection
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ 🎯 BEST PRACTICES - MAXIMIZE YOUR BOT                                        │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+✅ DO:
+  • Add at least 10 FAQs for common questions
+  • Upload product catalog or price list
+  • Check dashboard daily
+  • Add FAQ keywords for faster matching
+  • Keep working hours updated
+  • Use professional language
+  • Test bot with test messages first
+
+❌ DON'T:
+  • Don't share credentials publicly
+  • Don't upload huge files (>10MB)
+  • Don't ignore FAQs with no keywords
+  • Don't forget to save settings
+  • Don't turn off auto-reply when busy
+  • Don't upload duplicate documents
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ 💬 BOT COMMANDS & FEATURES                                                   │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+Customer: "Hi"
+Bot: [Replies based on knowledge base or AI]
+
+Customer: "What's the price?"
+Bot: [AI reads your price list and replies intelligently]
+
+Customer: "Do you deliver?"
+Bot: [Checks FAQ or documents for answer]
+
+Bot Features:
+  ✓ 24/7 Automatic replies
+  ✓ Learns from documents
+  ✓ Sinhala & English support
+  ✓ Smart product recommendations
+  ✓ Conversation memory
+  ✓ Tracks all messages
+  ✓ Reply rate analytics
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ 📊 UNDERSTANDING YOUR DASHBOARD                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+TODAY'S MESSAGES: Count of messages received today
+WEEK'S MESSAGES: Total messages last 7 days
+ACTIVE CUSTOMERS: Unique customer count
+REPLY RATE: % of messages that got replies (Goal: >80%)
+TOP QUESTIONS: Most common words/questions
+
+Tips:
+  • Low reply rate? Add more FAQs!
+  • High message count? Great! Upload docs to handle better!
+  • Few active customers? Market your number more!
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ 📱 SAMPLE FAQ FORMAT                                                         │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+Question: "What are your prices?"
+Answer: "We have products from Rs. 500 to Rs. 5,000. For detailed pricing, please check our catalog or contact us."
+Keywords: price, cost, how much, expensive, rate, charges
+
+Question: "Do you deliver?"
+Answer: "Yes! We deliver to [your area] within 1-3 days. Delivery charge is Rs. 200 flat."
+Keywords: deliver, delivery, ship, shipping, courier, how long
+
+Question: "What are your working hours?"
+Answer: "We're open 9 AM to 6 PM, Mon-Fri. Closed on weekends. You can message anytime!"
+Keywords: hours, open, closed, timing, when open, timing
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ 💳 PRICING & BILLING                                                         │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+Monthly Plans:
+  BASIC:    Rs. 3,500  | 1,500 messages  | FAQs only
+  STANDARD: Rs. 6,500  | 4,000 messages  | + AI + Docs
+  PRO:      Rs. 12,500 | Unlimited       | + Booking + Multi-number
+
+Gemini API Cost:
+  • ~Rs. 10-50 per 1,000 messages (included in plan)
+  • Most businesses use <100 messages/day
+  • Cost is minimal
+
+Render Server Cost:
+  • Free tier: Included!
+  • Paid tier: Only if >100K requests/month (unlikely)
+
+Total Monthly Cost: Just the plan price! ✅
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ 🆘 SUPPORT & CONTACT                                                         │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+Problems? Need Help?
+
+📧 Email: hello@soheilycreations.lk
+📱 WhatsApp: +94 77X XXX XXXX
+🌐 Website: soheilycreations.lk
+
+Response Time: Usually within 2 hours (business hours)
+Best Time: 9 AM - 6 PM, Monday-Friday
+
+Include in message:
+  • What's not working?
+  • Have you tried [troubleshooting steps]?
+  • Screenshots if possible
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ 🎓 LEARNING RESOURCES                                                        │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+Full Documentation: See DEPLOYMENT_GUIDE.md (English) or DEPLOYMENT_GUIDE_SINHALA.md
+Video Tutorials: [Coming Soon]
+Community Chat: [Telegram/WhatsApp Group]
+FAQ Section: In dashboard
+
+Common Questions Answered in Full Guide:
+  • How to customize bot responses
+  • How to add multiple FAQs
+  • How to upload documents properly
+  • How to track analytics
+  • How to optimize for your business
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ ✨ PRO TIPS FOR MAXIMUM RESULTS                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+1. FIRST WEEK:
+   • Add 10-15 FAQs
+   • Upload price list
+   • Share WhatsApp number on social media
+   • Tell existing customers about bot
+
+2. SECOND WEEK:
+   • Check dashboard daily
+   • Add more FAQs based on "Top Questions"
+   • Respond to customer feedback
+   • Monitor reply rate (should be >80%)
+
+3. ONGOING:
+   • Update FAQs monthly
+   • Upload new product info
+   • Check analytics weekly
+   • Keep working hours updated
+   • Celebrate positive reviews! 🎉
+
+Expected Results (3-6 months):
+  ✓ 30-50% increase in customer response
+  ✓ Reduced missed messages
+  ✓ Better customer satisfaction
+  ✓ More sales from quick replies
+
+═════════════════════════════════════════════════════════════════════════════════
+                    Built with ❤️ by Soheily Creations
+                         "Build Smart · Grow Fast"
+═════════════════════════════════════════════════════════════════════════════════
+
+Last Updated: May 2026 | Version 2.0
+For latest updates, visit: soheilycreations.lk
